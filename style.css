@@ -2385,5 +2385,7 @@ footer .footer-top .info-share li a::before{
   margin-right: auto;
     top:auto;
     right:auto;
+    align-items:center;
+    Text-align:center;
     
 }
