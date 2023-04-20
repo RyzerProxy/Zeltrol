@@ -2379,3 +2379,8 @@ footer .footer-top .info-share li a::before{
 .textwidget .footer-link-title{
     width: 100px;
 }
+.iframe{
+     display: flex;
+align-items: center;
+justify-content: center;
+}
